@@ -35,7 +35,7 @@
     "vcl-badge": "^0.1.0",
     "vcl-breadcrumb": "^0.1.0",
     "vcl-breakpoints": "^0.1.0",
-    "vcl-busy-indicator": "^0.1.0",
+    "vcl-busy-indicator": "amplituda/busy-indicator",
     "vcl-button": "vcl/button",
     "vcl-button-group": "^0.1.0",
     "vcl-calendar": "^0.1.0",
