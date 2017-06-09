@@ -65,7 +65,7 @@
     "vcl-icon": "^0.1.0",
     "vcl-image-shapes": "^0.1.0",
     "vcl-info-overlay": "^0.1.0",
-    "vcl-input": "^0.1.0",
+    "vcl-input": "vcl/input",
     "vcl-input-group": "^0.1.0",
     "vcl-label": "^0.1.0",
     "vcl-layer": "^0.1.0",
