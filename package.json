@@ -47,7 +47,7 @@
     "vcl-data-tree": "^0.1.0",
     "vcl-date-picker": "^0.1.0",
     "vcl-divider": "vcl/divider",
-    "vcl-drawer": "^0.1.0",
+    "vcl-drawer": "vcl/drawer",
     "vcl-dropdown": "^0.1.0",
     "vcl-effects": "^0.1.0",
     "vcl-embedded-input-button": "^0.1.0",
