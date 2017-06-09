@@ -61,7 +61,7 @@
     "vcl-gallery": "^0.1.0",
     "vcl-go-to-top": "^0.1.0",
     "vcl-grid": "^0.1.0",
-    "vcl-icogram": "^0.1.0",
+    "vcl-icogram": "vcl/icogram",
     "vcl-icon": "^0.1.0",
     "vcl-image-shapes": "^0.1.0",
     "vcl-info-overlay": "^0.1.0",
