@@ -43,7 +43,7 @@
     "vcl-coarse-pointer": "^0.1.0",
     "vcl-container": "^0.1.0",
     "vcl-data-grid": "^0.1.0",
-    "vcl-data-list": "^0.1.0",
+    "vcl-data-list": "amplituda/data-list",
     "vcl-data-tree": "^0.1.0",
     "vcl-date-picker": "^0.1.0",
     "vcl-divider": "^0.1.0",
