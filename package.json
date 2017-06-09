@@ -97,7 +97,7 @@
     "vcl-table-extras": "^0.1.0",
     "vcl-token": "^0.1.0",
     "vcl-token-input": "^0.1.0",
-    "vcl-toolbar": "^0.1.0",
+    "vcl-toolbar": "vcl/toolbar",
     "vcl-tooltip": "^0.1.0",
     "vcl-transitions": "^0.1.0",
     "vcl-typography": "^0.1.0",
