@@ -75,7 +75,7 @@
     "vcl-logo": "^0.1.0",
     "vcl-loose-button-group": "^0.1.0",
     "vcl-nag": "^0.1.0",
-    "vcl-navigation": "^0.1.0",
+    "vcl-navigation": "vcl/notification",
     "vcl-notification": "^0.1.0",
     "vcl-pager": "^0.1.0",
     "vcl-pagination": "^0.1.0",
