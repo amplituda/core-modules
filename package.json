@@ -84,7 +84,7 @@
     "vcl-print": "^0.1.0",
     "vcl-process-nav": "^0.1.0",
     "vcl-progress-bar": "^0.1.0",
-    "vcl-radio-button": "^0.1.0",
+    "vcl-radio-button": "vcl/radio-button",
     "vcl-rating": "^0.1.0",
     "vcl-responsive-image": "^0.1.0",
     "vcl-scrollbar": "^0.1.0",
