@@ -39,7 +39,7 @@
     "vcl-button": "vcl/button",
     "vcl-button-group": "^0.1.0",
     "vcl-calendar": "^0.1.0",
-    "vcl-checkbox": "^0.1.0",
+    "vcl-checkbox": "amplituda/checkbox",
     "vcl-coarse-pointer": "^0.1.0",
     "vcl-container": "^0.1.0",
     "vcl-data-grid": "^0.1.0",
