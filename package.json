@@ -100,7 +100,7 @@
     "vcl-toolbar": "vcl/toolbar",
     "vcl-tooltip": "^0.1.0",
     "vcl-transitions": "^0.1.0",
-    "vcl-typography": "^0.1.0",
+    "vcl-typography": "vcl/typography",
     "vcl-utils": "^0.1.0",
     "vcl-zoom-box": "^0.1.0"
   },
