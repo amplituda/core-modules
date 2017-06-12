@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "normalize.css": "^7.0.0",
-    "vcl-app-area": "^0.1.0",
+    "vcl-app-area": "amplituda/app-area",
     "vcl-app-content-area": "^0.1.0",
     "vcl-app-footer": "^0.1.0",
     "vcl-app-header": "amplituda/app-header",
