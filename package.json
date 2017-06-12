@@ -48,7 +48,7 @@
     "vcl-date-picker": "^0.1.0",
     "vcl-divider": "vcl/divider",
     "vcl-drawer": "amplituda/drawer",
-    "vcl-dropdown": "^0.1.0",
+    "vcl-dropdown": "amplituda/dropdown",
     "vcl-effects": "^0.1.0",
     "vcl-embedded-input-button": "^0.1.0",
     "vcl-fieldset": "^0.1.0",
