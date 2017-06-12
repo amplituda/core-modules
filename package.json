@@ -31,7 +31,7 @@
     "vcl-app-area": "^0.1.0",
     "vcl-app-content-area": "^0.1.0",
     "vcl-app-footer": "^0.1.0",
-    "vcl-app-header": "^0.1.0",
+    "vcl-app-header": "amplituda/app-header",
     "vcl-badge": "^0.1.0",
     "vcl-breadcrumb": "amplituda/breadcrumb",
     "vcl-breakpoints": "^0.1.0",
